@@ -496,12 +496,9 @@ El proyecto genera:
 
 Posibles extensiones del proyecto:
 
-1. Aplicar clustering sobre diseños viables usando métricas de desempeño.
-2. Aplicar PCA, t-SNE o UMAP para visualizar el espacio de diseño.
-3. Implementar SHAP para explicación avanzada de modelos.
-4. Crear una aplicación interactiva en Gradio o Streamlit.
-5. Automatizar la recomendación de diseños bajo criterios multicriterio.
-6. Conectar los modelos sustitutos con una etapa de optimización paramétrica.
+1. Aplicar PCA, t-SNE o UMAP para visualizar el espacio de diseño.
+2. Automatizar la recomendación de diseños bajo criterios multicriterio.
+3. Conectar los modelos sustitutos con una etapa de optimización paramétrica.
 
 ---
 
